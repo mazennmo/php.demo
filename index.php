@@ -4,13 +4,10 @@
 
 
 <?php
-echo "OOOOOOOOOO<br>";
-echo "O &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O<br>";
-echo "O &nbsp; &nbsp; # &nbsp; &nbsp; &nbsp; &nbsp; # &nbsp; &nbsp; O<br>";
-echo "O &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;O<br>";
-echo "O &nbsp; &nbsp; # &nbsp; &nbsp; &nbsp; &nbsp; # &nbsp; &nbsp; O<br>";
-echo "O &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; O<br>";
-echo "OOOOOOOOOO<br>";
+$num = "Enter a number";
+$num2 = "Enter another number";
+$total = $num + $num2;
+
 ?>
 
 </body>
